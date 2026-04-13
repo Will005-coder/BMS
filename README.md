@@ -1,4 +1,4 @@
-# TM_EE_BMS
+# Battery Management System for 3S2P configured, 18650 cells
 
 ## Purpose
 Arduino-based BMS monitor that measures:
@@ -110,7 +110,7 @@ Check LED + Serial behavior.
 - Sweep voltage (2.5–4.2 V equivalent)  
 - Sweep temperature  
 - Verify LED transitions and stability  
-
+- [Test plans](https://www.notion.so/BMS-Test-Plans-33fa90748dfe80cc9408f9e7ecaa5dbc?source=copy_link)
 ---
 
 ## Improvements
