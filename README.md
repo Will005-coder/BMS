@@ -117,13 +117,11 @@ Check LED + Serial behavior.
 
 Centralize constants:
 
-\`\`\`cpp
-struct BMS_Config {
+`struct BMS_Config {
   float R1_cell, R2_cell;
   float R1_pack, R2_pack;
   float R1_temp, B_val;
-};
-\`\`\`
+};`
 
 Split functions:
 - read_voltage()
